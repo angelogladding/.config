@@ -1,2 +1,2 @@
-# angelogladding.cfg
-my dotfiles
+# dotfiles
+My software configurations
