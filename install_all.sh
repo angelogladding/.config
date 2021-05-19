@@ -1,0 +1,1 @@
+sh neovim/install.sh
